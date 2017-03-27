@@ -1,0 +1,27 @@
+/*.box1 {
+  height: 200px;
+  background-color: tomato;
+}
+
+.box2 {
+  height: 200px;
+  background-color: red;
+}*/
+
+
+body {
+    background-color: lightblue;
+}
+
+.row1 {
+
+  height: 275px;
+  border: solid black 2px;
+
+}
+
+#center {
+  padding: 50px;
+  text-align: center;
+
+}
