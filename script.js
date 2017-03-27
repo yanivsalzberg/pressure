@@ -1,6 +1,3 @@
-
-
-
 Pressure.set('#center', {
   change: function(force, event){
     console.log(force);
